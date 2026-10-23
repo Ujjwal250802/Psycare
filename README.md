@@ -1,8 +1,6 @@
-<img width="356" height="789" alt="Screenshot 2026-05-10 184139" src="https://github.com/user-attachments/assets/19c4ebdd-31b7-49e5-8ea0-5ea1e49f3ec5" /># PsyCare — AI-Powered Mental Wellness Platform
+# PsyCare — AI-Powered Mental Wellness Platform
 
 PsyCare is a digital mental wellness platform designed to make emotional support and mental health resources more accessible. It combines mental health assessments, AI-based analysis, guided wellness activities, and appointment-related features in one application.
-
-> **Disclaimer:** PsyCare is an educational project and does not replace professional medical advice, diagnosis, treatment, or emergency mental health services.
 
 ## Features
 
@@ -24,7 +22,6 @@ PsyCare is a digital mental wellness platform designed to make emotional support
 | Styling | Tailwind CSS configuration |
 | Backend | Node.js |
 | Authentication and Cloud Services | Firebase |
-| Database Services | Supabase |
 | Machine Learning | Python, scikit-learn |
 | Payment Gateway | Razorpay |
 | Version Control | Git and GitHub |
